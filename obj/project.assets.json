@@ -11534,19 +11534,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Len\\.nuget\\packages\\": {}
+    "C:\\Users\\nicol\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\Len\\Desktop\\Sem 4\\ASP.NET\\ScamStore\\ScamStore\\ScamStore.csproj",
+      "projectUniqueName": "c:\\Users\\nicol\\OneDrive\\Desktop\\Georgian College Semester Three\\Server-Side Scripting-ASPNET\\Real-Assignment-1-ASP.NET-main\\Real-Assignment-1-ASP.NET-main\\ScamStore.csproj",
       "projectName": "ScamStore",
-      "projectPath": "c:\\Users\\Len\\Desktop\\Sem 4\\ASP.NET\\ScamStore\\ScamStore\\ScamStore.csproj",
-      "packagesPath": "C:\\Users\\Len\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\Len\\Desktop\\Sem 4\\ASP.NET\\ScamStore\\ScamStore\\obj\\",
+      "projectPath": "c:\\Users\\nicol\\OneDrive\\Desktop\\Georgian College Semester Three\\Server-Side Scripting-ASPNET\\Real-Assignment-1-ASP.NET-main\\Real-Assignment-1-ASP.NET-main\\ScamStore.csproj",
+      "packagesPath": "C:\\Users\\nicol\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\nicol\\OneDrive\\Desktop\\Georgian College Semester Three\\Server-Side Scripting-ASPNET\\Real-Assignment-1-ASP.NET-main\\Real-Assignment-1-ASP.NET-main\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Len\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\nicol\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
